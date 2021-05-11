@@ -5,5 +5,5 @@ Meu primeiro desafio, trazendo um cartão de visita com links para as minhas red
 
 # FERRAMENTAS
 
-## .HMTL\
+## .HMTL
 ## .CSS
