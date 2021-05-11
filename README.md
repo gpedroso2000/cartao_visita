@@ -1,9 +1,9 @@
-#CARTÃO DE VISITA
+# CARTÃO DE VISITA
 
-#DESCRIÇÃO
+# DESCRIÇÃO
 Meu primeiro desafio, trazendo um cartão de visita com links para as minhas redes sociais.
 
-#FERRAMENTAS
+# FERRAMENTAS
 
-.HMTL\
-.CSS
+## .HMTL\
+## .CSS
