@@ -1,0 +1,55 @@
+body{
+    background-color: black;
+}
+
+.cartao {
+    background-image: url(./imagens/backgorund.png);
+    background-size: cover;
+    width: 400px;
+    height: 200px;
+    border-style: solid;
+    box-sizing: border-box;
+    margin: auto;
+    
+    
+
+}
+
+p {
+    margin-top: 15px;
+    margin-left: 25px;
+    margin-bottom: 0;
+    font-size: 30px;
+}
+
+li {
+    line-height: 15px;
+    font-size: 15px;
+    text-transform: uppercase;
+    list-style-type: none;
+    margin-left: 20px;
+    color: black;
+}
+
+.insta {
+    list-style-image: url("./imagens/Insta.png");
+    
+}
+
+.tt {
+    list-style-image: url("./imagens/Twitter.png");
+}
+
+
+.you {
+    list-style-image: url("./imagens/Youtube.png");
+}
+
+a{
+    text-decoration: none;
+
+}
+
+a:visited{
+    color: black;
+}
